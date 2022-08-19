@@ -27,8 +27,8 @@ Versão Mobile:
 
 ### Links
 
-- Solução no Front-end mentor: [Add solution URL here](https://your-solution-url.com)
-- Veja em funcionamento: [Add live site URL here](https://your-live-site-url.com)
+- Veja em funcionamento: [Clique Aqui!](https://product-card-preview-mauve.vercel.app/)
+- Meu perfil no Front-end mentor: [Veja mais projetos.](https://www.frontendmentor.io/profile/a-almeida10)
 
 ### Ferramentas
 
