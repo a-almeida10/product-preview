@@ -20,8 +20,8 @@
   border-radius: 10px;
   overflow: hidden;
   display: grid;
-  grid-template-columns: 45% 55%;
-  box-shadow: 5px 5px 5px hsl(228, 12%, 48%);
+  grid-template-columns: 1fr 1fr;
+  box-shadow: 5px 5px 15px 5px rgb(0 0 0 / 5%);
 }
 
 /**********Image preview**********/
@@ -47,6 +47,9 @@
   font-family: "Montserrat", sans-serif;
   font-size: 1.8vh;
   color: hsl(228, 12%, 48%);
+}
+.category-title {
+  letter-spacing: 5px;
 }
 
 .product-title {
